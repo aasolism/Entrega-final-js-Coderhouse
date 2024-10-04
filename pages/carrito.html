@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito de Compras</title>
+    <link rel="stylesheet" href="../estilos.css">
+    <script defer src="../js/carrito.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body>
+    <nav class="navbar">
+        <a href="../index.html">
+        <img class="logo" src="../img/logo segunda2.svg" alt="Logo del Campeonato">
+        </a>
+        <ul class="nav-links">
+            <li class="active"><a href="../index.html">Inicio</a></li>
+            <li><a href="../index.html#event-cards">Partidos</a></li>
+            <li class="ctn"><a href="../index.html#event-cards">Comprar Entradas</a></li>
+        </ul>
+    </nav>
+
+    <header class="header">
+        <div class="header-content">
+            <h2>Carrito de Compras</h2>
+            <div class="line"></div>
+
+            <!-- Carrito de compras contenido -->
+            <div class="cart-section">
+                <div class="title">
+                    <h1>Resumen del Carrito</h1>
+                    <div class="line"></div>
+                </div>
+
+                <div id="cart-items"></div>
+                <button class="ctn" id="vaciarCarrito">Vaciar Carrito</button>
+                <button class="ctn" id="confirmarCompra">Confirmar Compra</button>
+
+                <p id="total">Total: $0</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Botón flotante para volver al inicio -->
+    <button class="btn-flotante-inicio" id="volverInicio">Volver al Inicio</button>
+
+    <section class="footer">
+        <p>San Diego 255, Santiago, Chile | Teléfono: +56987654321 | Email: contacto@ejemplo.com</p>
+        <p>Copyright © 2024 Campeonato Segunda División Profesional</p>
+    </section>
+
+</body>
+</html>

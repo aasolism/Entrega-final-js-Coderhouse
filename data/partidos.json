@@ -1,0 +1,66 @@
+[
+    {
+      "nombre": "Real San Joaquín vs San Antonio Unido",
+      "fecha": "Sábado 14 de septiembre",
+      "hora": "12:00",
+      "lugar": "Estadio Municipal de San Joaquín",
+      "precioGeneral": 5000,
+      "precioVIP": 10000,
+      "imagen": "./img/p1.png"
+    },
+    {
+      "nombre": "Deportes Melipilla vs Rengo",
+      "fecha": "Sábado 14 de septiembre",
+      "hora": "15:00",
+      "lugar": "Estadio Soinca Bata",
+      "precioGeneral": 5500,
+      "precioVIP": 11000,
+      "imagen": "./img/p2.png"
+    },
+    {
+      "nombre": "Deportes Linares vs Provincial Osorno",
+      "fecha": "Sábado 14 de septiembre",
+      "hora": "17:30",
+      "lugar": "Estadio Fiscal Tucapel Bustamante",
+      "precioGeneral": 5000,
+      "precioVIP": 10000,
+      "imagen": "./img/p3.png"
+    },
+    {
+      "nombre": "Deportes Puerto Montt vs Lautaro de Buín",
+      "fecha": "Domingo 15 de septiembre",
+      "hora": "12:00",
+      "lugar": "Estadio Bicentenario Chinquihue",
+      "precioGeneral": 4500,
+      "precioVIP": 9000,
+      "imagen": "./img/p4.png"
+    },
+    {
+      "nombre": "General Velásquez vs Fernández Vial",
+      "fecha": "Domingo 15 de septiembre",
+      "hora": "15:00",
+      "lugar": "Estadio Municipal Augusto Rodríguez",
+      "precioGeneral": 5500,
+      "precioVIP": 11000,
+      "imagen": "./img/p5.png"
+    },
+    {
+      "nombre": "Deportes Concepción vs Trasandino",
+      "fecha": "Domingo 15 de septiembre",
+      "hora": "17:30",
+      "lugar": "Estadio Ester Roa Rebolledo",
+      "precioGeneral": 5500,
+      "precioVIP": 11000,
+      "imagen": "./img/p6.png"
+    },
+    {
+      "nombre": "Concón National vs Provincial Ovalle",
+      "fecha": "Domingo 29 de septiembre",
+      "hora": "15:00",
+      "lugar": "Por Confirmar",
+      "precioGeneral": 5000,
+      "precioVIP": 10000,
+      "imagen": "./img/p7.png"
+    }
+  ]
+  
